@@ -20,6 +20,7 @@ cats_uk_reference <- tuesdata$cats_uk_reference
 View(cats_uk_reference)
 glimpse(cats_uk_reference)
 
+
 ### Data Analysis ######
 cat_ref <- cats_uk_reference %>%
   drop_na() %>% # filters out everything that is not a complete row
