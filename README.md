@@ -1,2 +1,5 @@
-# Mishegyan-Tidy-Tuesdays
+## Mishegyan-Tidy-Tuesdays
 This is Avetis Mishegyan's Tidy Tuesdays weekly repository.
+
+### _Week 4's Tidy Tuesday - Pet Cats UK:_
+&nbsp; This weeks Tidy Tuesday uses data from week 5 on 2023-01-31 on pet cats from the UK. The purpose of my script and heat map graph was to analyze the effects that a wet and dry food diet had on the number of prey caught by both male and female cats in the UK.
