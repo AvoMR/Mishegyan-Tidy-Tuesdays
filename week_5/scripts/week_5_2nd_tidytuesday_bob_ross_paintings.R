@@ -1,6 +1,7 @@
 ### My second tidytuesday in week 5 ####
 ### Created by: Avetis Mishegyan #############
 ### Created on: 2023-02-21 ####################
+### Updated on: 2023-02-28 ####################
 
 
 #### Load Libraries ######
@@ -33,9 +34,10 @@ ggplot(mapping = aes(x = num_colors,
        y = "# of Times Used",
        fill = "Season",
        title = "Number of Times Bob Ross Used a Specific Color per Season") +
-  theme(plot.title = element_text(hjust = .5)) + # centers plot title
+  scale_fill_manual(values = alphonse("onepiece")) + # sets One Piece color palette
   theme_bw() + # sets theme to classic dark-on-light
-  scale_fill_manual(values = alphonse("onepiece")) # sets One Piece color palette
+  theme(plot.title = element_text(hjust = .5),  # centers plot title, won't work if before theme_classic()
+       strip.text = element_blank())
 
 ggsave(here("week_5","output","week_5_2nd_tidytuesday_bob_ross.png"), # names and saves ggplot
        width = 8, height = 5) # adjust size of graph in inches
