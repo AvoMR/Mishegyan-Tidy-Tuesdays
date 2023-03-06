@@ -6,3 +6,6 @@ This is Avetis Mishegyan's Tidy Tuesdays weekly repository.
 
 ### _Week 5's Tidy Tuesday - Bob Ross Paintings:_
 &nbsp; This weeks Tidy Tuesday uses data from week 8 on 2023-02-21 on the paintings of Bob Ross featured in the TV Show 'The Joy of Painting'. The purpose of my script and histogram graph was to vizualize the number of times Bob Ross used a specific color within the entirety of a season for his first 4 seasons.
+
+### _Week 6's Tidy Tuesday - African Language Sentiment:_
+&nbsp; This weeks Tidy Tuesday uses data from week 9 on 2023-02-28 on the African language sentiment of Twitter Tweets. The purpose of my script and heat map graph was to vizualize number of negative, neutral, and positive Tweets by African country.
