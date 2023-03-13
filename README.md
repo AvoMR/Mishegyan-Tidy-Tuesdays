@@ -11,4 +11,4 @@ This is Avetis Mishegyan's Tidy Tuesdays weekly repository.
 &nbsp; This weeks Tidy Tuesday uses data from week 9 on 2023-02-28 on the African language sentiment of Twitter Tweets. The purpose of my script and heat map graph was to vizualize number of negative, neutral, and positive Tweets by African country.
 
 ### _Week 7's Tidy Tuesday - Numbats in Australia:_
-&nbsp; This weeks Tidy Tuesday uses data from week 10 on 2023-03-07 on the spottings of the endangered bat *Myrmecobius fasciatus rufus* and the nominate *Myrmecobius fasciatus fasciatus* sub species found in Australia. The purpose of my script, google map, and point map graph was to vizualize number of *M. fasciatus rufus* found across Australia.
+&nbsp; This weeks Tidy Tuesday uses data from week 10 on 2023-03-07 on the spottings of the endangered bat *Myrmecobius fasciatus rufus* and the nominate *Myrmecobius fasciatus fasciatus* subspecies found in Australia. The purpose of my script, google map, and point map graph was to vizualize number of *M. fasciatus rufus* subspecies found across Australia.
