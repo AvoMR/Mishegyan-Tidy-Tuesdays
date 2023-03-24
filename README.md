@@ -19,4 +19,4 @@ This is Avetis Mishegyan's Tidy Tuesdays weekly repository.
 ### _Week 9's Tidy Tuesday - Programming Languages:_
 &nbsp; This weeks Tidy Tuesday uses data from week 12 on 2023-03-21 on the various aspects of the programming languages. The purpose of my script and bar graph was to visualize popularity of the first six programming languages within the data provided.
 * abc:  
-  * def
+* def
