@@ -18,3 +18,6 @@ This is Avetis Mishegyan's Tidy Tuesdays weekly repository.
 
 ### _Week 9's Tidy Tuesday - Programming Languages:_
 &nbsp; This weeks Tidy Tuesday uses data from week 12 on 2023-03-21 on the various aspects of the programming languages. The purpose of my script and bar graph was to visualize popularity of the first six programming languages within the data provided.
+
+### _Week 10's Tidy Tuesday - Art History Data:_
+&nbsp; This weeks Tidy Tuesday uses data from week 3 on 2023-01-17 on artist demographic data from the 2 most popular art history textbooks used in the American education system. The purpose of my script and density graph was to visualize the number of artist publications from 1926-2020 between the 2 textbooks.
