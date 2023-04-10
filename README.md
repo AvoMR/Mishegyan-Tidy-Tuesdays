@@ -21,3 +21,6 @@ This is Avetis Mishegyan's Tidy Tuesdays weekly repository.
 
 ### _Week 10's Tidy Tuesday - Art History Data:_
 &nbsp; This weeks Tidy Tuesday uses data from week 3 on 2023-01-17 on artist demographic data from the 2 most popular art history textbooks used in the American education system. The purpose of my script and density graph was to visualize the number of artist publications from 1926-2020 between the 2 textbooks.
+
+### _Week 11's Tidy Tuesday - US Egg Production Data:_
+&nbsp; This weeks Tidy Tuesday uses data from week 15 on 2023-04-11 on egg production data from the USDA from December 2007 to February 2021. The purpose of my script and jitter graph was to visualize the number of eggs produced based on how they were housed.
